@@ -1,0 +1,4 @@
+baseURL: https://example.org/
+languageCode: ja-jp               # ja-jp に変更
+title: "はじめてのHugoサイト"     # タイトルを変更
+theme: ananke                     # テーマを指定
